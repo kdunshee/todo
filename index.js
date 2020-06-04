@@ -49,7 +49,7 @@ function renderItem(item) {
     }
 }
 
-//removed onclick from renderItem
+// removed onclick from renderItem
 // function complete() {
 //   const { items } = state
 //   changeItem = items.dataset
